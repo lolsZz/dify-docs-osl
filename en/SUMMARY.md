@@ -167,10 +167,3 @@
 * [FAQ](learn-more/faq/README.md)
   * [Self-Host Related](learn-more/faq/install-faq.md)
   * [LLM Configuration and Usage](learn-more/faq/use-llms-faq.md)
-
-## Policies
-
-* [Open Source License](policies/open-source.md)
-* [User Agreement](policies/agreement/README.md)
-  * [Terms of Service](https://dify.ai/terms)
-  * [Privacy Policy](https://dify.ai/privacy)
